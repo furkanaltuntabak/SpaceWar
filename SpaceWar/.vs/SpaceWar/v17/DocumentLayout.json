@@ -1,0 +1,273 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FURKAN\\Desktop\\SpaceWar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\FURKAN\\Desktop\\SpaceWar\\WarSpace\\Oyun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WarSpace\\Oyun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\FURKAN\\Desktop\\SpaceWar\\WarSpace\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WarSpace\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\FURKAN\\Desktop\\SpaceWar\\WarSpace\\Game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WarSpace\\Game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\FURKAN\\Desktop\\SpaceWar\\WarSpace\\Oyun.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WarSpace\\Oyun.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\FURKAN\\Desktop\\SpaceWar\\WarSpace\\CollisionDetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WarSpace\\CollisionDetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\FURKAN\\Desktop\\SpaceWar\\WarSpace\\Oyun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WarSpace\\Oyun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\FURKAN\\Desktop\\SpaceWar\\WarSpace\\StrongEnemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WarSpace\\StrongEnemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\FURKAN\\Desktop\\SpaceWar\\WarSpace\\FastEnemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WarSpace\\FastEnemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\FURKAN\\Desktop\\SpaceWar\\WarSpace\\BossEnemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WarSpace\\BossEnemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\FURKAN\\Desktop\\SpaceWar\\WarSpace\\Enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WarSpace\\Enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\FURKAN\\Desktop\\SpaceWar\\WarSpace\\Spaceship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WarSpace\\Spaceship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\FURKAN\\Desktop\\SpaceWar\\WarSpace\\Bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WarSpace\\Bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\FURKAN\\Desktop\\SpaceWar\\WarSpace\\Meteor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WarSpace\\Meteor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\FURKAN\\Desktop\\SpaceWar\\WarSpace\\BasicEnemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WarSpace\\BasicEnemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CollisionDetector.cs",
+              "DocumentMoniker": "C:\\Users\\FURKAN\\Desktop\\SpaceWar\\WarSpace\\CollisionDetector.cs",
+              "RelativeDocumentMoniker": "WarSpace\\CollisionDetector.cs",
+              "ToolTip": "C:\\Users\\FURKAN\\Desktop\\SpaceWar\\WarSpace\\CollisionDetector.cs",
+              "RelativeToolTip": "WarSpace\\CollisionDetector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:50:43.993Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Oyun.cs",
+              "DocumentMoniker": "C:\\Users\\FURKAN\\Desktop\\SpaceWar\\WarSpace\\Oyun.cs",
+              "RelativeDocumentMoniker": "WarSpace\\Oyun.cs",
+              "ToolTip": "C:\\Users\\FURKAN\\Desktop\\SpaceWar\\WarSpace\\Oyun.cs",
+              "RelativeToolTip": "WarSpace\\Oyun.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T14:45:52.588Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StrongEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\FURKAN\\Desktop\\SpaceWar\\WarSpace\\StrongEnemy.cs",
+              "RelativeDocumentMoniker": "WarSpace\\StrongEnemy.cs",
+              "ToolTip": "C:\\Users\\FURKAN\\Desktop\\SpaceWar\\WarSpace\\StrongEnemy.cs",
+              "RelativeToolTip": "WarSpace\\StrongEnemy.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:49:05.765Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FastEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\FURKAN\\Desktop\\SpaceWar\\WarSpace\\FastEnemy.cs",
+              "RelativeDocumentMoniker": "WarSpace\\FastEnemy.cs",
+              "ToolTip": "C:\\Users\\FURKAN\\Desktop\\SpaceWar\\WarSpace\\FastEnemy.cs",
+              "RelativeToolTip": "WarSpace\\FastEnemy.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:48:35.502Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BossEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\FURKAN\\Desktop\\SpaceWar\\WarSpace\\BossEnemy.cs",
+              "RelativeDocumentMoniker": "WarSpace\\BossEnemy.cs",
+              "ToolTip": "C:\\Users\\FURKAN\\Desktop\\SpaceWar\\WarSpace\\BossEnemy.cs",
+              "RelativeToolTip": "WarSpace\\BossEnemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:51:40.938Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\FURKAN\\Desktop\\SpaceWar\\WarSpace\\Enemy.cs",
+              "RelativeDocumentMoniker": "WarSpace\\Enemy.cs",
+              "ToolTip": "C:\\Users\\FURKAN\\Desktop\\SpaceWar\\WarSpace\\Enemy.cs",
+              "RelativeToolTip": "WarSpace\\Enemy.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:47:49.968Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Spaceship.cs",
+              "DocumentMoniker": "C:\\Users\\FURKAN\\Desktop\\SpaceWar\\WarSpace\\Spaceship.cs",
+              "RelativeDocumentMoniker": "WarSpace\\Spaceship.cs",
+              "ToolTip": "C:\\Users\\FURKAN\\Desktop\\SpaceWar\\WarSpace\\Spaceship.cs",
+              "RelativeToolTip": "WarSpace\\Spaceship.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwBQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:41:41.543Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\FURKAN\\Desktop\\SpaceWar\\WarSpace\\Bullet.cs",
+              "RelativeDocumentMoniker": "WarSpace\\Bullet.cs",
+              "ToolTip": "C:\\Users\\FURKAN\\Desktop\\SpaceWar\\WarSpace\\Bullet.cs",
+              "RelativeToolTip": "WarSpace\\Bullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T11:05:31.042Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Meteor.cs",
+              "DocumentMoniker": "C:\\Users\\FURKAN\\Desktop\\SpaceWar\\WarSpace\\Meteor.cs",
+              "RelativeDocumentMoniker": "WarSpace\\Meteor.cs",
+              "ToolTip": "C:\\Users\\FURKAN\\Desktop\\SpaceWar\\WarSpace\\Meteor.cs",
+              "RelativeToolTip": "WarSpace\\Meteor.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T16:56:05.957Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BasicEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\FURKAN\\Desktop\\SpaceWar\\WarSpace\\BasicEnemy.cs",
+              "RelativeDocumentMoniker": "WarSpace\\BasicEnemy.cs",
+              "ToolTip": "C:\\Users\\FURKAN\\Desktop\\SpaceWar\\WarSpace\\BasicEnemy.cs",
+              "RelativeToolTip": "WarSpace\\BasicEnemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:29:45.974Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\FURKAN\\Desktop\\SpaceWar\\WarSpace\\Game.cs",
+              "RelativeDocumentMoniker": "WarSpace\\Game.cs",
+              "ToolTip": "C:\\Users\\FURKAN\\Desktop\\SpaceWar\\WarSpace\\Game.cs",
+              "RelativeToolTip": "WarSpace\\Game.cs",
+              "ViewState": "AQIAALkBAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:40:54.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FURKAN\\Desktop\\SpaceWar\\WarSpace\\Program.cs",
+              "RelativeDocumentMoniker": "WarSpace\\Program.cs",
+              "ToolTip": "C:\\Users\\FURKAN\\Desktop\\SpaceWar\\WarSpace\\Program.cs",
+              "RelativeToolTip": "WarSpace\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:34:20.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Oyun.cs",
+              "DocumentMoniker": "C:\\Users\\FURKAN\\Desktop\\SpaceWar\\WarSpace\\Oyun.cs",
+              "RelativeDocumentMoniker": "WarSpace\\Oyun.cs",
+              "ToolTip": "C:\\Users\\FURKAN\\Desktop\\SpaceWar\\WarSpace\\Oyun.cs",
+              "RelativeToolTip": "WarSpace\\Oyun.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:19:11.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Oyun.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\FURKAN\\Desktop\\SpaceWar\\WarSpace\\Oyun.Designer.cs",
+              "RelativeDocumentMoniker": "WarSpace\\Oyun.Designer.cs",
+              "ToolTip": "C:\\Users\\FURKAN\\Desktop\\SpaceWar\\WarSpace\\Oyun.Designer.cs",
+              "RelativeToolTip": "WarSpace\\Oyun.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T15:04:44.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

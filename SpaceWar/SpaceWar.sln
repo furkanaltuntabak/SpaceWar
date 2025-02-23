@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarSpace", "WarSpace\WarSpace.csproj", "{789658BF-BBDF-4709-A61C-CDD9772CF18B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{789658BF-BBDF-4709-A61C-CDD9772CF18B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{789658BF-BBDF-4709-A61C-CDD9772CF18B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{789658BF-BBDF-4709-A61C-CDD9772CF18B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{789658BF-BBDF-4709-A61C-CDD9772CF18B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA29FD2A-9151-429C-95B6-A39E41697419}
+	EndGlobalSection
+EndGlobal
